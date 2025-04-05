@@ -1,0 +1,8 @@
+pandas
+numpy
+requests
+SpeechRecognition
+scikit-learn
+moviepy
+youtube_dl
+ffmpeg-python
